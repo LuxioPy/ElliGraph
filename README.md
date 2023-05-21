@@ -1,6 +1,18 @@
 # ElliGraph :triumph:
 This is a web application created as a passion project in my sophmore year of highschool. The app allows users to graph ellipses by providing the values for the major axis (a) and minor axis (b). It uses the Streamlit library in Python to provide an interactive and user-friendly interface.
 
+# How to Use :question:
+-Open your web browser and go to https://luxiopy-elligraph-grapherwebapp-7v5bjh.streamlit.app/.
+
+-Once the web app is loaded, you will see an interface with two sliders labeled "Major Axis (a)" and "Minor Axis (b)".
+
+-Adjust the sliders to set the values for the major axis (a) and minor axis (b) of the ellipse. As you change the values, the graph of the ellipse will automatically update in real-time.
+
+-Explore different combinations of major and minor axis values to visualize various ellipses. The graph will reflect the changes immediately, allowing you to observe the effects on the shape and size of the ellipse.
+
+-You can also view the major axis, minor axis, and eccentricity values displayed below the sliders.
+
+-Feel free to experiment, analyze different ellipse configurations, and gain insights into how changing the major and minor axes affects the shape of the ellipse.
 
 
 # Features :running:
@@ -30,7 +42,3 @@ This project, an ellipse graphing web app, is one of my endeavors to combine my 
 I'm always eager to learn and grow, so if you have any suggestions, questions, or just want to connect, feel free to reach out.
 
 Happy Graphing!
-
-
-
-**Feel free to explore and experiment with different values for the major and minor axes to visualize various ellipses. This project showcases the application of programming concepts and physics concepts the development of a simple web app using Python.**
