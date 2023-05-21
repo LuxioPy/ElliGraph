@@ -1,10 +1,10 @@
-# ElliGraph
+# ElliGraph 
 This is a web application created as a passion project in my sophmore year of highschool. The app allows users to graph ellipses by providing the values for the major axis (a) and minor axis (b). It uses the Streamlit library in Python to provide an interactive and user-friendly interface.
 
 
 
-# Features
-- Graph ellipses by inputting the major axis (a) and minor axis (b) values.
+# Features :running:
+- Graph ellipses by inputting the major axis (a) and minor axis (b) values, across a slider.
 - Sliders for a and b to easily adjust the values and see the updated graph.
 - Display of major and minor axis values.
 - Automatic handling of edge cases and error messages for invalid inputs.
@@ -19,9 +19,9 @@ This is a web application created as a passion project in my sophmore year of hi
 - NumPy
 
 
-# About Me
+# About Me 
 
-Hi! My name is Zion Ceus, and I'm currently a high school sophomore about to become a junior. I have a deep passion for computer science and software engineering. I love exploring the endless possibilities that coding offers and applying those concepts to various subjects, including math, physics, and more.
+Hi :wave: ! My name is Zion Ceus, and I'm currently a high school sophomore about to become a junior. I have a deep passion for computer science and software engineering. I love exploring the endless possibilities that coding offers and applying those concepts to various subjects, including math, physics, and more.
 
 Ever since I started coding, I've been fascinated by how programming can be used to solve complex problems and bring ideas to life. It's incredibly rewarding to see the intersection of creativity and logic in action. I have a new found goal of creating projects like these to grow my knowledge of programming and software engineering, every year, no matter what it takes.
 
