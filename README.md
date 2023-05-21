@@ -1,7 +1,7 @@
 # ElliGraph
 This is a web application created as a passion project in my sophmore year of highschool. The app allows users to graph ellipses by providing the values for the major axis (a) and minor axis (b). It uses the Streamlit library in Python to provide an interactive and user-friendly interface.
 
-## Features
+# Features
 - Graph ellipses by inputting the major axis (a) and minor axis (b) values.
 - Sliders for a and b to easily adjust the values and see the updated graph.
 - Display of major and minor axis values.
@@ -9,18 +9,14 @@ This is a web application created as a passion project in my sophmore year of hi
 - Interactive graph visualization using Matplotlib and NumPy.
 - Designed to be intuitive and accessible for users of all levels.
 
-## Technologies Used
+# Technologies Used
 - Python
 - Streamlit
 - Matplotlib
 - NumPy
-# Getting Started
-1. Clone the repository.
-2. Install the required dependencies using pip install -r requirements.txt.
-3. Run the application with streamlit run app.py.
-4. Access the app through the provided local server URL.
 
-### About Me
+
+# About Me
 
 Hello there! My name is Zion, and I'm currently a high school sophomore about to become a junior. I have a deep passion for computer science and software engineering. I love exploring the endless possibilities that coding offers and applying those concepts to various subjects, including math, physics, and more.
 
