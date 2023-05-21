@@ -46,8 +46,10 @@ def main():
     # Display the major and minor axis values
     major_axis = max(a, b)
     minor_axis = min(a, b)
+    eccentricity = round(math.sqrt(1 - (minor_axis**2 / a **2)), 1)
     st.write("Major axis:", major_axis)
     st.write("Minor axis:", minor_axis)
+    st.write("Eccentricity:", eccentricity)
 
     # Generate the plot
     t = np.linspace(0, 2 * np.pi, 100)
