@@ -37,8 +37,6 @@ def plot_ellipse(a, b):
   
 def main():
     st.title("Elliptical Grapher")
-    st.write("#### Made by ***Zion Ceus***")
-
     # Create sliders for 'a' and 'b'
     a = st.slider("Enter *a* value:", min_value=0.1, max_value=10.0, step=0.1, value=1.0)
     b = st.slider("Enter b value:", min_value=0.1, max_value=10.0, step=0.1, value=1.0)
