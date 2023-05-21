@@ -1,5 +1,5 @@
 # ElliGraph :triumph:
-This is a web application created as a passion project in my sophmore year of highschool. The app allows users to graph ellipses by providing the values for the major axis (a) and minor axis (b). It uses the Streamlit library in Python to provide an interactive and user-friendly interface.
+This is a web application created as a passion project in my sophomore year of highschool. The app allows users to graph ellipses by providing the values for the major axis (a) and minor axis (b). It uses the Streamlit library in Python to provide an interactive and user-friendly interface.
 
 # How to Use :question:
 -Open your web browser and go to https://luxiopy-elligraph-grapherwebapp-7v5bjh.streamlit.app/.
